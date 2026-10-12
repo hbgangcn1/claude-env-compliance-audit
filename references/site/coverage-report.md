@@ -1,0 +1,26 @@
+https://fuck-claude.vercel.app/zh/ | index.md | 4162 | 200 | PASS
+https://fuck-claude.vercel.app/zh/about/ | about.md | 800 | 200 | PASS
+https://fuck-claude.vercel.app/zh/contact/ | contact.md | 427 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/ | guides.md | 3614 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/account-appeal-and-recovery-sop/ | guides_account-appeal-and-recovery-sop.md | 1149 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/account-registration-and-payment-antiban/ | guides_account-registration-and-payment-antiban.md | 1995 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/antiban-essentials/ | guides_antiban-essentials.md | 1814 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/api-advanced-optimization/ | guides_api-advanced-optimization.md | 862 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/automation-safety-practices/ | guides_automation-safety-practices.md | 1106 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/ban-case-studies/ | guides_ban-case-studies.md | 1441 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/browser-configuration-guide/ | guides_browser-configuration-guide.md | 841 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/claude-ai-content-watermarking/ | guides_claude-ai-content-watermarking.md | 1719 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/claude-code-and-api-safety/ | guides_claude-code-and-api-safety.md | 2303 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/claude-steganography-and-risk-model/ | guides_claude-steganography-and-risk-model.md | 767 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/device-setup-guide/ | guides_device-setup-guide.md | 907 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/domestic-and-open-source-alternatives/ | guides_domestic-and-open-source-alternatives.md | 2590 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/environment-cleanup-and-ip-setup/ | guides_environment-cleanup-and-ip-setup.md | 1789 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/multi-account-management/ | guides_multi-account-management.md | 952 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/payment-methods-comparison/ | guides_payment-methods-comparison.md | 1268 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/regional-access-strategy/ | guides_regional-access-strategy.md | 1340 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/troubleshooting-guide/ | guides_troubleshooting-guide.md | 1160 | 200 | PASS
+https://fuck-claude.vercel.app/zh/guides/vpn-and-proxy-selection/ | guides_vpn-and-proxy-selection.md | 996 | 200 | PASS
+https://fuck-claude.vercel.app/zh/news/ | news.md | 10347 | 200 | PASS
+https://fuck-claude.vercel.app/zh/privacy/ | privacy.md | 869 | 200 | PASS
+https://fuck-claude.vercel.app/zh/terms/ | terms.md | 948 | 200 | PASS
+TOTAL=25 PASS=25 FAIL=0
